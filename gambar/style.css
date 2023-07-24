@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+	background-image: url(gambar/tree.png);
+	background-repeat: no-repeat;
+
+	/*hanya ketika no-repeat*/
+	background-position: bottom center;
+
+	/*Shorthand*/
+	/*background: color url() position repeat
+	background: white url(gambar/tree.png) top center no-repeat;*/
+}

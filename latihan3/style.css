@@ -1,0 +1,20 @@
+/*Belajar Text Styling*/
+
+h1 {
+	font-size: 150px;
+	color: skyblue;
+	text-decoration: line-through;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: justify;
+	text-indent: 100px;
+	text-transform: capitalize;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+}
+
+a {
+	text-decoration: none;
+}

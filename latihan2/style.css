@@ -1,0 +1,16 @@
+h1 {
+	/*Shorthand*/
+	/*font: font-style font-variant font-weight font-size(wajib)/line-height font-family(wajib);*/
+	/*font: italic small-caps bold 16px/18px helvetica, arial, sans-serif;*/
+
+	font-family: arial, verdana, sans-serif;
+	font-size: 100px;
+	font-weight: normal;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p {
+	font-family: georgia, serif;
+	line-height: 50px;
+}
